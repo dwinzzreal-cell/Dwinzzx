@@ -1,0 +1,23 @@
+{
+  "name": "dwinzzx",
+  "version": "1.0.0",
+  "description": "Dwinzz Developer Portfolio - A modern portfolio website with Vercel Speed Insights",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwinzzreal-cell/Dwinzzx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwinzzreal-cell/Dwinzzx/issues"
+  },
+  "homepage": "https://github.com/dwinzzreal-cell/Dwinzzx#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
